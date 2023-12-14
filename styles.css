@@ -82,6 +82,7 @@ footer {
   padding: 10px 0;
   display: block;
   flex-grow: 1;
+  width: 200px;
 }
 
 .footer_row a:hover {
