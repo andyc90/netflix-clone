@@ -32,11 +32,11 @@ body::before {
   object-fit: fill;
   background-size: 110%;
   background-position: top;
+  z-index: -10;
 }
 
 nav {
-  position: fixed;
-  z-index: 1;
+  z-index: 100;
   padding: 25px 60px;
 }
 
